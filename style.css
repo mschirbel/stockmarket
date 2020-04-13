@@ -3,6 +3,7 @@ table {
     border-collapse: collapse;
     border-spacing: 0;
     font: normal 13px Arial, sans-serif;
+    align-content: center;
 }
 th {
     background-color: #DDEFEF;
